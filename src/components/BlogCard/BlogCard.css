@@ -1,0 +1,16 @@
+/* .card-body {
+    display: none;
+} */
+
+.myHeight {
+    height: calc(100vh - 250px);
+}
+
+div:empty {
+    display: none !important;
+}
+
+.card-body + .emptyBlock {
+    display: block !important;
+}
+
