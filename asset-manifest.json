@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BlogPostWithReact/static/css/main.d7b34e49.chunk.css",
+    "main.js": "/BlogPostWithReact/static/js/main.b28a7ace.chunk.js",
+    "main.js.map": "/BlogPostWithReact/static/js/main.b28a7ace.chunk.js.map",
+    "runtime-main.js": "/BlogPostWithReact/static/js/runtime-main.c0455e8f.js",
+    "runtime-main.js.map": "/BlogPostWithReact/static/js/runtime-main.c0455e8f.js.map",
+    "static/css/2.7aa6f31f.chunk.css": "/BlogPostWithReact/static/css/2.7aa6f31f.chunk.css",
+    "static/js/2.284a7b9c.chunk.js": "/BlogPostWithReact/static/js/2.284a7b9c.chunk.js",
+    "static/js/2.284a7b9c.chunk.js.map": "/BlogPostWithReact/static/js/2.284a7b9c.chunk.js.map",
+    "index.html": "/BlogPostWithReact/index.html",
+    "precache-manifest.af082b73a8b412e210b5d65d7f3ae54a.js": "/BlogPostWithReact/precache-manifest.af082b73a8b412e210b5d65d7f3ae54a.js",
+    "service-worker.js": "/BlogPostWithReact/service-worker.js",
+    "static/css/2.7aa6f31f.chunk.css.map": "/BlogPostWithReact/static/css/2.7aa6f31f.chunk.css.map",
+    "static/css/main.d7b34e49.chunk.css.map": "/BlogPostWithReact/static/css/main.d7b34e49.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0455e8f.js",
+    "static/css/2.7aa6f31f.chunk.css",
+    "static/js/2.284a7b9c.chunk.js",
+    "static/css/main.d7b34e49.chunk.css",
+    "static/js/main.b28a7ace.chunk.js"
+  ]
+}
